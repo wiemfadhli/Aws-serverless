@@ -85,7 +85,7 @@ All AWS resources are provisioned using **Terraform**, ensuring reproducibility 
  - **Language:** PySpark 
  #### How to Run
  ###  1. Clone the repository
-git clone https://github.com/your-username/cloud-data-pipeline.git 
+git clone https://github.com/wiemfadhli/cloud-data-pipeline.git 
 cd cloud-data-pipeline
 ### 2. Deploy infrastructure
 terraform init 
