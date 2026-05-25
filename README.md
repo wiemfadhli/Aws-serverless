@@ -1,4 +1,4 @@
-# ☁️ Cloud Data Pipeline Project
+# ☁️ aws-serverless-data-pipeline
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![S3](https://img.shields.io/badge/S3-Data%20Lake-blue)
