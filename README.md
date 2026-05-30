@@ -1,4 +1,4 @@
-# ☁️ Aws serverless data pipeline
+#  Aws serverless data pipeline
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![S3](https://img.shields.io/badge/S3-Data%20Lake-blue)
@@ -46,14 +46,14 @@ Each row represents a **single organisation**, and each column describes a speci
 
 Amazon S3 is used as a **centralised Data Lake storage system**, enabling scalable and durable storage for all pipeline data.
 
-### 📁 Data Lake Structure
+###  Data Lake Structure
 
 
 s3://data-lake-bucket/
 │
-├── raw/         # 🥉 Bronze Layer → Raw ingested data
-├── processed/   # 🥈 Silver Layer → Cleaned & transformed data
-└── trusted/     # 🥇 Gold Layer → Final validated dataset
+├── raw/         #  Bronze Layer → Raw ingested data
+├── processed/   # Silver Layer → Cleaned & transformed data
+└── trusted/     # Gold Layer → Final validated dataset
 
 
 ## ETL Pipeline
